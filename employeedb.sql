@@ -1,7 +1,7 @@
-DROP DATABASE IF EXISTS employee_tracker_db;
-CREATE database employee_tracker_db;
+DROP DATABASE IF EXISTS employeedb;
+CREATE database employeedb;
 
-USE employee_tracker_db;
+USE employeedb;
 
 CREATE TABLE role (
     id INT AUTO_INCREMENT NOT NULL,

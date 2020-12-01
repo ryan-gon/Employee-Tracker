@@ -8,11 +8,11 @@ var connection = mysql.createConnection({
     port: 3306,
 
     // Your username
-    user: "root",
+    user: "ryan-gon",
 
     // Your password
-    password: "123456789",
-    database: "employee_tracker_db"
+    password: "password",
+    database: "employeedb"
 });
 
 connection.connect(function (err) {
