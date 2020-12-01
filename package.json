@@ -1,0 +1,19 @@
+{
+  "name": "employeetrcker",
+  "version": "1.0.0",
+  "description": "Employee Database",
+  "main": "index.js",
+  "scripts": {
+    "test": "This Worked !"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ryan-gon/Employee-track.git"
+  },
+  "author": "RG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryan-gon/Employee-track/issues"
+  },
+  "homepage": "https://github.com/ryan-gon/Employee-track#readme"
+}
