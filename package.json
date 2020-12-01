@@ -1,19 +1,15 @@
 {
   "name": "employeetrcker",
   "version": "1.0.0",
-  "description": "Employee Database",
+  "description": "Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. In this homework assignment, your challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.",
   "main": "index.js",
   "scripts": {
-    "test": "This Worked !"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/ryan-gon/Employee-track.git"
-  },
-  "author": "RG",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ryan-gon/Employee-track/issues"
-  },
-  "homepage": "https://github.com/ryan-gon/Employee-track#readme"
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
 }
